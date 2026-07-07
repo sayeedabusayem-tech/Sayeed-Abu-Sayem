@@ -1,0 +1,6 @@
+{
+  "name": "BCS Companion",
+  "description": "An interactive, fully featured companion app for Bangladeshi BCS and government job preparation with a study planner, MCQ engine, mock tests, and AI Mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
